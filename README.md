@@ -1,1 +1,1 @@
-# CS391L-MachineLearning
+# CS391L-MachineLearning_ReviewNotes
