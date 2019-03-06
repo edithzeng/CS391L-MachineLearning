@@ -1,1 +1,3 @@
-# Notes for CS391L-MachineLearning
+# CS391L-MachineLearning
+
+Math notes
