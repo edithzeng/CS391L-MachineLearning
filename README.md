@@ -1,3 +1,3 @@
 # CS391L-MachineLearning
 
-Math notes
+Math notes and review guides
